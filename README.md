@@ -61,7 +61,3 @@ In the EDA, the following analyses were performed:
    ```bash
    git clone https://github.com/Yagnik9734/EDA-Playstore.git                                                                             2. Navigate to the project directory:
    cd EDA-on-Google-Play-Store
-3. Install the required dependencies:
-   pip install -r requirements.txt
-4. Open the Jupyter Notebook:
-   jupyter notebook notebooks/EDA_Google_Play_Store.ipynb
